@@ -121,17 +121,15 @@ header p {
 .restart-btn:hover {
     background-color: #218838;
 }
-/* 
+
 .powered-by {
     position: fixed;
     right: 20px;
     bottom: 20px;
-    font-size: 10px;
+    font-size: 12px;
     color: #999;
     z-index: 10;
     user-select: none;
-} */
-
-.powered-by {
-    font-size: 12px;
 }
+
+
