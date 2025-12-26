@@ -109,7 +109,6 @@
             transition: all 0.3s ease;
             position: relative;
             z-index: 2;
-            max-height: 85vh;
             overflow-y: auto;
             border: 1px solid var(--border);
             margin-bottom: 15px;
@@ -1168,3 +1167,4 @@
             margin-bottom: 8px;
             color: var(--primary);
         }
+
